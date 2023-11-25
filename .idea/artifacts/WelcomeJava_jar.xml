@@ -2,7 +2,7 @@
   <artifact type="jar" name="WelcomeJava:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/WelcomeJava_jar</output-path>
     <root id="archive" name="WelcomeJava.jar">
-      <element id="module-output" name="WelcomeJava" />
+      <element id="module-output" name="01_WelcomeJava" />
     </root>
   </artifact>
 </component>

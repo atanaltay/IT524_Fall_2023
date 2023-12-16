@@ -39,6 +39,11 @@ public class Dog extends  Animal{
        return "Hav hav";
     }
 
+    @Override
+    public void getFed() {
+        System.out.println("Dog is fed with bones");
+    }
+
     public String getFavouriteToy() {
         return favouriteToy;
     }

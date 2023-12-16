@@ -24,6 +24,11 @@ public class Animal {
         return "no sound";
     }
 
+    public void getFed(){
+        System.out.println("anima cannot be fed");
+    }
+
+
 
     public String getName() {
         return name;

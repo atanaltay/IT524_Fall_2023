@@ -23,6 +23,11 @@ public class HouseCat extends Cat{
         return "miyaww..";
     }
 
+    @Override
+    public void getFed() {
+        System.out.println("House cat is fed by " + getFavFood());
+    }
+
     public String getOwner() {
         return owner;
     }

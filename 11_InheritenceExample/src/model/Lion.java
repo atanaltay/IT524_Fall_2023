@@ -13,6 +13,19 @@ public class Lion extends Cat{
         System.out.println("-----------LION CONSTRUCTOR--------------");
     }
 
+    @Override
+    public void getFed() {
+        System.out.println("Lion ate meat");
+    }
+
+    @Override
+    public String makeNoise() {
+
+        return "ROARRR";
+
+
+    }
+
     public int getMinCalories() {
         return minCalories;
     }

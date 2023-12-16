@@ -7,7 +7,15 @@
       <module fileurl="file://$PROJECT_DIR$/03_ClassesObjects1/03_ClassesObjects1.iml" filepath="$PROJECT_DIR$/03_ClassesObjects1/03_ClassesObjects1.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_ReferenceTypeAssignments/04_ReferenceTypeAssignments.iml" filepath="$PROJECT_DIR$/04_ReferenceTypeAssignments/04_ReferenceTypeAssignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_AccessEncapsulation/05_AccessEncapsulation.iml" filepath="$PROJECT_DIR$/05_AccessEncapsulation/05_AccessEncapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_SalesPeople/06_SalesPeople.iml" filepath="$PROJECT_DIR$/06_SalesPeople/06_SalesPeople.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_StaticAndFinal/07_StaticAndFinal.iml" filepath="$PROJECT_DIR$/07_StaticAndFinal/07_StaticAndFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Composition01/08_Composition01.iml" filepath="$PROJECT_DIR$/08_Composition01/08_Composition01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_ConstructionApp/09_ConstructionApp.iml" filepath="$PROJECT_DIR$/09_ConstructionApp/09_ConstructionApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_CustomerOrders/10_CustomerOrders.iml" filepath="$PROJECT_DIR$/10_CustomerOrders/10_CustomerOrders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_InheritenceExample/11_InheritenceExample.iml" filepath="$PROJECT_DIR$/11_InheritenceExample/11_InheritenceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_StaticAndFinal/CompositionIntro/CompositionIntro.iml" filepath="$PROJECT_DIR$/07_StaticAndFinal/CompositionIntro/CompositionIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/IT524_Fall_2023.iml" filepath="$PROJECT_DIR$/IT524_Fall_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PenLab/PenLab.iml" filepath="$PROJECT_DIR$/PenLab/PenLab.iml" />
     </modules>
   </component>
 </project>

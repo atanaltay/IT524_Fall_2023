@@ -17,9 +17,11 @@
       <module fileurl="file://$PROJECT_DIR$/13_AbstractAndInterfaces/13_AbstractAndInterfaces.iml" filepath="$PROJECT_DIR$/13_AbstractAndInterfaces/13_AbstractAndInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/15_StringExample/15_StringExample.iml" filepath="$PROJECT_DIR$/15_StringExample/15_StringExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/16_WebServerApp/16_WebServerApp.iml" filepath="$PROJECT_DIR$/16_WebServerApp/16_WebServerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_GenericsAndCollections/17_GenericsAndCollections.iml" filepath="$PROJECT_DIR$/17_GenericsAndCollections/17_GenericsAndCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_StaticAndFinal/CompositionIntro/CompositionIntro.iml" filepath="$PROJECT_DIR$/07_StaticAndFinal/CompositionIntro/CompositionIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/IT524_Fall_2023.iml" filepath="$PROJECT_DIR$/IT524_Fall_2023.iml" />
       <module fileurl="file://$PROJECT_DIR$/PenLab/PenLab.iml" filepath="$PROJECT_DIR$/PenLab/PenLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PenLab2/PenLab2.iml" filepath="$PROJECT_DIR$/PenLab2/PenLab2.iml" />
     </modules>
   </component>
 </project>

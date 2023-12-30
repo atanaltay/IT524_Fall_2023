@@ -18,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/15_StringExample/15_StringExample.iml" filepath="$PROJECT_DIR$/15_StringExample/15_StringExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/16_WebServerApp/16_WebServerApp.iml" filepath="$PROJECT_DIR$/16_WebServerApp/16_WebServerApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/17_GenericsAndCollections/17_GenericsAndCollections.iml" filepath="$PROJECT_DIR$/17_GenericsAndCollections/17_GenericsAndCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_ExceptionHandling/18_ExceptionHandling.iml" filepath="$PROJECT_DIR$/18_ExceptionHandling/18_ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_InnerClasses/19_InnerClasses.iml" filepath="$PROJECT_DIR$/19_InnerClasses/19_InnerClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_StaticAndFinal/CompositionIntro/CompositionIntro.iml" filepath="$PROJECT_DIR$/07_StaticAndFinal/CompositionIntro/CompositionIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/IT524_Fall_2023.iml" filepath="$PROJECT_DIR$/IT524_Fall_2023.iml" />
       <module fileurl="file://$PROJECT_DIR$/PenLab/PenLab.iml" filepath="$PROJECT_DIR$/PenLab/PenLab.iml" />

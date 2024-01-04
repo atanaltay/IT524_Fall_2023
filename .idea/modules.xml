@@ -22,8 +22,11 @@
       <module fileurl="file://$PROJECT_DIR$/19_InnerClasses/19_InnerClasses.iml" filepath="$PROJECT_DIR$/19_InnerClasses/19_InnerClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/20_AnonymousAndLambdaExpressions/20_AnonymousAndLambdaExpressions.iml" filepath="$PROJECT_DIR$/20_AnonymousAndLambdaExpressions/20_AnonymousAndLambdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/21_First_JDBC_Example/21_First_JDBC_Example.iml" filepath="$PROJECT_DIR$/21_First_JDBC_Example/21_First_JDBC_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22_ExceptionsReview/22_ExceptionsReview.iml" filepath="$PROJECT_DIR$/22_ExceptionsReview/22_ExceptionsReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_JDBCExamples2/23_JDBCExamples2.iml" filepath="$PROJECT_DIR$/23_JDBCExamples2/23_JDBCExamples2.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_StaticAndFinal/CompositionIntro/CompositionIntro.iml" filepath="$PROJECT_DIR$/07_StaticAndFinal/CompositionIntro/CompositionIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/IT524_Fall_2023.iml" filepath="$PROJECT_DIR$/IT524_Fall_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22_ExceptionsReview/JDBCContinue/JDBCContinue.iml" filepath="$PROJECT_DIR$/22_ExceptionsReview/JDBCContinue/JDBCContinue.iml" />
       <module fileurl="file://$PROJECT_DIR$/PenLab/PenLab.iml" filepath="$PROJECT_DIR$/PenLab/PenLab.iml" />
       <module fileurl="file://$PROJECT_DIR$/PenLab2/PenLab2.iml" filepath="$PROJECT_DIR$/PenLab2/PenLab2.iml" />
     </modules>
